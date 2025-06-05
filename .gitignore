@@ -1,4 +1,4 @@
 .env
-.zig-cache/
-zig-out/
 *.o
+./zig-out/
+./zig-cache/
